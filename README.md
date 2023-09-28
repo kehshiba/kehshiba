@@ -1,14 +1,27 @@
+<br/><br>
+<p align="center">
+  <img src="https://img.icons8.com/color/26/000000/github-2.png"/>
+</p>
+<br>
+<p align="center">
+  <samp> i'm abhishek. a comp sci. undergraduate with a passion for web, gpu, hpc and open-source software. </samp>
+<br/><br>
+<p align="center">
+<samp>i try to make open source projects and scripts for  issues i face during development or while tinkering with new tools....i try... </samp>
+</p>
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Hi! I'm **Abhishek**. I am still figuring out open-source while battling with the constant dilemmas of being a teenager
-# Contributions
+<p align="center">
+<samp> other than contributing and experimenting with new tools, i like space and cars 
+<br><br>
+👾&nbsp;&nbsp;🏎️ </samp>
+</p>
 
-I am just beginning with open-source but my favourite contributions would be for **OpenMRS!** which i did during Google Code In .
+<p align="center">
+  <a href="mailto:kehshiba.ab@gmail.com">email</a> |
+  <a href="https://www.linkedin.com/in/kehsihba/">linkedin</a> |
+  <a href="http://kehsihba.co">website</a>
+</p>
 
-## Connect with me
-
-
-
-### 📫 Where to find me
-
-- [Twitter](https://twitter.com/dyxinng) 🐤
+<p align="center">
+<samp>Last Edited on: 28/09/2023</samp>
+</p>
