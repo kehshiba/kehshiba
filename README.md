@@ -4,7 +4,7 @@
 </p>
 <br>
 <p align="center">
-  <samp> i'm abhishek. a comp sci. undergraduate with a passion for web, gpu, hpc and open-source software. </samp>
+  <samp> i'm abhishek. a comp sci. undergraduate with a passion for open-source software. </samp>
 <br/><br>
 <p align="center">
 <samp>i try to make open source projects and scripts for  issues i face during development or while tinkering with new tools....i try... </samp>
